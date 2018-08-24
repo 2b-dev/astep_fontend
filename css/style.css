@@ -163,6 +163,9 @@ p.p-about{
   text-indent: 40px;
   text-align: justify;
 }
+.pagination.pg-blue .page-item.active .page-link, .pagination.pg-blue .page-item.active .page-link:hover{
+  background-color: #f56542;
+}
 /* Extra small devices (portrait phones, less than 576px)*/
 
 /* No media query since this is the default in Bootstrap*/
